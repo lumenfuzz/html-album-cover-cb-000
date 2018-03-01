@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Avenir Next Condensed';
-  src: url('https://github.com/potyt/fonts/blob/master/macfonts/Avenir%20Next%20Condensed/ttc/Avenir%20Next%20Condensed.ttc');
+  src: url('https://s3.amazonaws.com/learn-verified/Avenir+Next+Condensed.ttc');
 }
 
 * {
